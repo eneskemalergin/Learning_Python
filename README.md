@@ -1,4 +1,4 @@
 Learning_Python
 ===============
 
-This Repo contains example from different sources
+This Repo contains examples from different sources
