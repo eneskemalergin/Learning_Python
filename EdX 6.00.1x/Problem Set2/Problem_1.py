@@ -1,4 +1,5 @@
-## Problem Set 2 - Problem 1
+# Paying the Minimum
+# Author: Enes Kemal Ergin
 
 '''Write a program to calculate the credit card balance after one year if a person
 only pays the minimum monthly payment required by the credit card company each month.
